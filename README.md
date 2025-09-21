@@ -1,6 +1,9 @@
 # Intern2Grow
-This repository contains two projects that were completed using Power BI:
+# Power BI Projects 📊
+This repository contains two projects completed using **Power BI**:
 
-Sales Analysis: A project focused on analyzing sales data.
+1. **Sales Analysis**  
+   A project focused on analyzing sales data to identify trends, performance, and insights.  
 
-Social Media Analysis: A project focused on analyzing social media performance data.
+2. **Social Media Analysis**  
+   A project focused on analyzing social media performance data to measure engagement and reach.  
