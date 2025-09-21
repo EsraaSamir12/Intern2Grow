@@ -1,5 +1,4 @@
 # Intern2Grow
-# Power BI Projects 📊
 This repository contains two projects completed using **Power BI**:
 
 1. **Sales Analysis**  
